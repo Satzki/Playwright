@@ -17,5 +17,5 @@ test('Browser launch amazon', async () => {
     const pageurl = await page.url();
     console.log(pageurl);
     });
-tester
+
 
